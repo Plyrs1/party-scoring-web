@@ -9,6 +9,6 @@
     "automergeType": "pr",
     "platformAutomerge": true
   },
-  "schedule": ["after 11pm and before 5am everyday"],
+  "schedule": ["after 11pm and before 5am"],
   "timezone": "Asia/Jakarta"
 }
