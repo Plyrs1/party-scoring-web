@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    background-size: cover;
+    background-position: center;
+    background-position: no-repeat;
+    background-image: url('/assets/img/awi.png');
+  }
+}
+
+@layer components {
+  .container {
+    @apply bg-party-background/80 rounded-xl;
+  }
+}
