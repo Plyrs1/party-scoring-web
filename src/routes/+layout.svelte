@@ -1,7 +1,10 @@
 <script lang="ts">
   import '$lib/main.css'
+
+  import Navbar from '$lib/components/Navbar.svelte'
 </script>
 
-<main class="flex flex-col items-center justify-center w-screen h-screen">
+<div class="grid grid-cols-[auto,1fr] min-h-screen gap-6 p-6">
+  <Navbar />
   <slot />
-</main>
+</div>
