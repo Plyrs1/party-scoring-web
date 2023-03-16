@@ -16,8 +16,8 @@
       icon: faHome
     },
     {
-      name: 'Song List',
-      href: '/song-list',
+      name: 'Songlist',
+      href: '/songlist',
       icon: faListOl
     },
     {
