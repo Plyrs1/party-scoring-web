@@ -12,7 +12,7 @@
 }
 
 @layer components {
-  .container {
-    @apply bg-party-background/80 rounded-xl;
+  .widget {
+    @apply bg-party-background/90 rounded-xl w-full;
   }
 }

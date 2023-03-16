@@ -48,7 +48,7 @@
   ]
 </script>
 
-<header class="container p-6 text-black h-full">
+<header class="widget p-6 text-black h-full">
   <nav class="flex gap-6 flex-col [&>a:last-child]:mt-auto h-full items-center">
     {#each navLinks as { href, icon }}
       <a class="text-3xl text-party-orange" {href}>
