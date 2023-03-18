@@ -48,11 +48,11 @@
   ]
 </script>
 
-<header class="widget p-6 text-black h-full">
+<header class="bg-party-background rounded-[30px] px-6 py-8 text-black h-full">
   <nav class="flex gap-6 flex-col [&>a:last-child]:mt-auto h-full items-center">
     {#each navLinks as { href, icon }}
-      <a class="text-3xl text-party-orange" {href}>
-        <Fa {icon} />
+      <a class="text-4xl text-party-orange" {href}>
+        <Fa class="[filter:drop-shadow(4px_4px_2px_rgba(0,0,0,0.2))]" {icon} />
       </a>
     {/each}
   </nav>

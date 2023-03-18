@@ -13,6 +13,6 @@
 
 @layer components {
   .widget {
-    @apply bg-party-background/90 rounded-xl w-full;
+    @apply bg-party-background w-full shadow-[12px_12px_0px_black] rounded-[30px];
   }
 }
