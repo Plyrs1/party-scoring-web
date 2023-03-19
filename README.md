@@ -1,28 +1,28 @@
-# create-svelte
+# party-scoring-web
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a website specially made for Anime World Indonesia community. The main purpose is just to let our Otaku Expert do their job properly. The old way we do party scoring heavily depend on Google Sheet. Mes is the only person that do all the hard work, like gathering all video sources, creating the spreadsheet, and making sure everyone volunteered in the party scoring gives their score.
 
-## Creating a project
+The main downside of using spreadsheet is that everyone could see another's score, so there will be bias in their judgement on how much score they gave. Furthermore, elitist in AWI will always got butthurt whenever their favourite song got poorly rated. Even if the others have the same opinion, those elitists will always find their way to diss and tell them about their shitty taste.
 
-If you're seeing this, you've probably already done this step. Congrats!
+I actually made improvement in the spreadsheet, in which every person has their own sheet, so that no one can see each other's score. But it is a pain to setup and eventually we discard it.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
 ```bash
-npm run dev
+# clone to local
+git clone https://github.com/Plyrs1/party-scoring-web
+cd party-scoring-web
+
+# install required packages
+yarn
+
+# start the server
+yarn dev
 
 # or start the server and open the app in a new browser tab
-npm run dev -- --open
+yarn dev -- --open
 ```
 
 ## Building
@@ -30,9 +30,10 @@ npm run dev -- --open
 To create a production version of your app:
 
 ```bash
-npm run build
+yarn build
 ```
+## Self-hosting
+Currently, this project lives in [https://scoring.plyrs.party/](https://scoring.plyrs.party/), and the development version in [https://scoring-dev.plyrs.party/](https://scoring-dev.plyrs.party/). But if somehow you want to run this website for your own community, you can! This project is licensed under MIT License, you are free to do whatever you want, all you have to do is just keep the credit and license intact.
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+In the future, I am planning to add feature that allows other community to create their own group, so that they could start party scoring by themselves.
