@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    background-size: cover;
+    background-position: center;
+    background-position: no-repeat;
+    background-image: url('/assets/img/awi.png');
+  }
+}
+
+@layer components {
+  .widget {
+    @apply bg-party-background w-full shadow-[12px_12px_0px_black] rounded-[30px];
+  }
+}
