@@ -20,6 +20,9 @@ module.exports = {
         // 'kusogaki-blue': '#91a8dd',
         // 'kusogaki-cyan': '#8ad3e0',
         // 'kusogaki-green': '#ade9db'
+      },
+      borderRadius: {
+        'party-radius': '30px'
       }
     }
   },
