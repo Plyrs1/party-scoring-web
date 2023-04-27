@@ -1,13 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base",
-		"group:allNonMajor",
-		":semanticCommits"
-  ],
-	"labels": [
-		"dependencies"
-	],
+  "extends": ["config:base", "group:allNonMajor", ":semanticCommits"],
+  "labels": ["dependencies"],
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
