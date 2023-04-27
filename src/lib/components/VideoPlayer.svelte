@@ -14,7 +14,7 @@
   }
 </script>
 
-<section class="rounded-party-radius w-full h-full bg-black grid gap-4 text-white p-8 content-between">
+<div class="w-full h-full bg-black/80 grid gap-4 text-white p-8 content-between">
   <div class="grid gap-2 justify-items-start">
     <h1 class="text-2xl">
       {title} by
@@ -23,14 +23,14 @@
     <p class="text-lg text-gray-200">{subtitle}</p>
   </div>
   <div class="flex gap-12 justify-center mb-4">
-    <button>
+    <button class="clickable">
       <Fa class="text-6xl" icon={faChevronLeft} />
     </button>
-    <button on:click={togglePlay}>
+    <button class="clickable" on:click={togglePlay}>
       <Fa class="text-6xl" icon={isPlaying ? faCirclePause : faCirclePlay} />
     </button>
-    <button>
+    <button class="clickable">
       <Fa class="text-6xl" icon={faChevronRight} />
     </button>
   </div>
-</section>
+</div>

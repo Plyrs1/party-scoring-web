@@ -2,11 +2,8 @@
   import VideoPlayer from '$lib/components/VideoPlayer.svelte'
 </script>
 
-<main class="rounded-xl grid gap-6">
-  <VideoPlayer 
-    title="Yotogibanashi" 
-    artist="KanoeRana" 
-    subtitle="Kyokou Suiri Season 2 - OP1" 
-    songLink="#" 
-  />
+<main class="grid">
+  <section class="widget overflow-hidden">
+    <VideoPlayer title="Yotogibanashi" artist="KanoeRana" subtitle="Kyokou Suiri Season 2 - OP1" songLink="#" />
+  </section>
 </main>
