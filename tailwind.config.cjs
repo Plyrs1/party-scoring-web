@@ -12,7 +12,7 @@ module.exports = {
       //   },
       colors: {
         'party-background': '#D9D9D9',
-        'party-orange': '#EAA133'
+        'party-orange': '#EAA033'
         // 'kusogaki-purple': '#6167c5',
         // 'kusogaki-blue': '#91a8dd',
         // 'kusogaki-red': '#eba3b4',
