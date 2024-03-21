@@ -16,13 +16,13 @@ git clone https://github.com/Plyrs1/party-scoring-web
 cd party-scoring-web
 
 # install required packages
-yarn
+pnpm
 
 # start the server
-yarn dev
+pnpm dev
 
 # or start the server and open the app in a new browser tab
-yarn dev -- --open
+pnpm dev --open
 ```
 
 ## Building
@@ -30,7 +30,7 @@ yarn dev -- --open
 To create a production version of your app:
 
 ```bash
-yarn build
+pnpm build
 ```
 ## Self-hosting
 Currently, this project lives in [https://scoring.plyrs.party/](https://scoring.plyrs.party/), and the development version in [https://scoring-dev.plyrs.party/](https://scoring-dev.plyrs.party/). But if somehow you want to run this website for your own community, you can! This project is licensed under MIT License, you are free to do whatever you want, all you have to do is just keep the credit and license intact.
