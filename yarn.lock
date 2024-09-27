@@ -366,9 +366,9 @@
   integrity sha512-kFJR7RxeB6FBvrKZWAEzIALatgy11ISaaZbcPup8JdWUdrmmfUHHTJ738YHJTEfnCiiXi6aX8Q6ePY7tnSMD6Q==
 
 "@sveltejs/kit@^2.0.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.6.0.tgz#4d6eaccf407d0b14aaa47841191e2fa9dd6273f4"
-  integrity sha512-oG8cCAopDQavdN+RbzanNpfyUWsTbZ2Nt1zNioBm8thXLo1/8VtwP/KvlJW2HgrdN235NI4IL5bSZjTEXKuifQ==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.6.1.tgz#7511032f67adcc972b4a5b0c6af200a2fd19d62e"
+  integrity sha512-QFlch3GPGZYidYhdRAub0fONw8UTguPICFHUSPxNkA/jdlU1p6C6yqq19J1QWdxIHS2El/ycDCGrHb3EAiMNqg==
   dependencies:
     "@types/cookie" "^0.6.0"
     cookie "^0.6.0"
@@ -1746,9 +1746,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 svelte-check@^4.0.0:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.0.3.tgz#5674af0698b9cf4eee470c6f823b6eae22148cbe"
-  integrity sha512-V2eqOEuNrPi1jGf307opR1JZ+ITP6/7R8ALKSw4Uw3NWp6GfA+fe7tYtEvZc7QHCavYKBizCK4JFwYjbuPCeXQ==
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.0.4.tgz#2c796b1e2c0fc9f862289e9ed3bcf9b6620dfd6a"
+  integrity sha512-AcHWIPuZb1mh/jKoIrww0ebBPpAvwWd1bfXCnwC2dx4OkydNMaiG//+Xnry91RJMHFH7CiE+6Y2p332DRIaOXQ==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.25"
     chokidar "^4.0.1"
