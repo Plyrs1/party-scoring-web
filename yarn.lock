@@ -912,9 +912,9 @@ eslint@^9.0.0:
     text-table "^0.2.0"
 
 esm-env@^1.0.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.1.tgz#d02858ce396148ecf75f298e4c320d5a929b4015"
-  integrity sha512-5HLucDhz5yhDlMHqEedMyD4XjyV7+4vZhUS7zXNiBdSXFrViQCIeRmf7Gcs33USDcX0aGdCH+C6ZWbxzXy3ZGg==
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.4.tgz#340c78b03ee2298d31c5b9fab9793468ede828b0"
+  integrity sha512-oO82nKPHKkzIj/hbtuDYy/JHqBHFlMIW36SDiPCVsj87ntDLcWN+sJ1erdVryd4NxODacFTsdrIE3b7IamqbOg==
 
 espree@^10.0.1, espree@^10.2.0:
   version "10.2.0"
@@ -1747,9 +1747,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.1.4.tgz#2ea2764925f33a19fb609746a35d8a029862bde9"
-  integrity sha512-qgHDV7AyvBZa2pbf+V0tnvWrN1LKD8LdUsBkR/SSYVVN6zXexiXnOy5Pjcjft2y/2NJJVa8ORUHFVn3oiWCLVQ==
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.1.6.tgz#97f01dac0d7c44beb8dcd10ce3d3e34224931e1e"
+  integrity sha512-bYS/DpkqXk0j5UZgiNXrEjZYPRZ4Ncd87w4KUSbcZGyojA0+i/Ls9OGUjETHmdLe8RcQ0G8SX/T0PypPpAA/ew==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
