@@ -424,9 +424,7 @@
     debug "^4.3.7"
 
 "@sveltejs/vite-plugin-svelte@^5.0.0":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-5.0.1.tgz#0f5139e4dfb87229e499a797ac5d1018f34a1a2b"
-  integrity sha512-D5l5+STmywGoLST07T9mrqqFFU+xgv5fqyTWM+VbxTvQ6jujNn4h3lQNCvlwVYs4Erov8i0K5Rwr3LQtmBYmBw==
+  version "5.9.0"
   dependencies:
     "@sveltejs/vite-plugin-svelte-inspector" "^4.0.0"
     debug "^4.3.7"
