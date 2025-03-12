@@ -1376,9 +1376,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.22.6"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.22.6.tgz#b27e35b1c29dc9731e569e8a595719c10e4f3bda"
-  integrity sha512-dxHyh3USJyayafSt5I5QD7KuoCM5ZGdIOtLQiKHEro7tymdh0jMcNkiSBVHW+LOA2jEqZEHhyfwN6/pCjx0Fug==
+  version "5.23.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.23.0.tgz#1f6b224f5cb8cee677bdb6b78fb097933923b82a"
+  integrity sha512-v0lL3NuKontiCxholEiAXCB+BYbndlKbwlDMK0DS86WgGELMJSpyqCSbJeMEMBDwOglnS7Ar2Rq0wwa/z2L8Vg==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
@@ -1396,9 +1396,9 @@ svelte@^5.0.0:
     zimmerframe "^1.1.2"
 
 tailwindcss@^4.0.0:
-  version "4.0.12"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.12.tgz#71ab22c78810303b1156354bcc561a747169b5bd"
-  integrity sha512-bT0hJo91FtncsAMSsMzUkoo/iEU0Xs5xgFgVC9XmdM9bw5MhZuQFjPNl6wxAE0SiQF/YTZJa+PndGWYSDtuxAg==
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.13.tgz#093935db2e4b80d245386f69da580528ac5b1b3c"
+  integrity sha512-gbvFrB0fOsTv/OugXWi2PtflJ4S6/ctu6Mmn3bCftmLY/6xRsQVEJPgIIpABwpZ52DpONkCA3bEj5b54MHxF2Q==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
