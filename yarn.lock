@@ -1407,9 +1407,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.33.16"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.33.16.tgz#79189a345209f1a554d5587c55a3d5dfcbfb2140"
-  integrity sha512-bZZtbOXghLrLtOFRfVB1tYzM7Q9Ir3vKBWDKSq0onw3SR3W9LltqNIAP6smWipWTGl2cosjNzYcTxdhb9KV4Ug==
+  version "5.33.17"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.33.17.tgz#95e10c9393b3f12aa8996f56129ee75d59b05097"
+  integrity sha512-y453Ac1Xi/MFXbGIDK89YH1CeXlFk+aTsDQ1uMc7iE+iVau6ZnE4t3iWsr0oxKnIApjfI7CL4R1NEHzVMUrkVg==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
