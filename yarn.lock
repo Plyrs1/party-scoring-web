@@ -402,9 +402,9 @@
   integrity sha512-YaDrquRpZwfcXbnlDsSrBQNCChVOT9MGuSg+dMAyfsAa1SmiAhrA5jUYUiIMC59G92kIbY/AaQOWcBdq+lh+zg==
 
 "@sveltejs/kit@^2.0.0":
-  version "2.25.1"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.25.1.tgz#8d01ed7da61ed8bc42f4230eef688555fc17ec71"
-  integrity sha512-8H+fxDEp7Xq6tLFdrGdS5fLu6ONDQQ9DgyjboXpChubuFdfH9QoFX09ypssBpyNkJNZFt9eW3yLmXIc9CesPCA==
+  version "2.25.2"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.25.2.tgz#d566314e7596fc6aecb8e62b735b204ea21972f8"
+  integrity sha512-aKfj82vqEINedoH9Pw4Ip16jj3w8soNq9F3nJqc56kxXW74TcEu/gdTAuLUI+gsl8i+KXfetRqg1F+gG/AZRVQ==
   dependencies:
     "@sveltejs/acorn-typescript" "^1.0.5"
     "@types/cookie" "^0.6.0"
@@ -1403,9 +1403,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.36.13"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.13.tgz#23b1ad0562158db96715e44d958cbd3192c6f0b3"
-  integrity sha512-LnSywHHQM/nJekC65d84T1Yo85IeCYN4AryWYPhTokSvcEAFdYFCfbMhX1mc0zHizT736QQj0nalUk+SXaWrEQ==
+  version "5.36.14"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.14.tgz#5c16f0d64fa99a177f0e5cf65414a047f8fe4f20"
+  integrity sha512-okgNwfVa4FfDGOgd0ndooKjQz1LknUFDGfEJp6QNjYP6B4hDG0KktOP+Pta3ZtE8s+JELsYP+7nqMrJzQLkf5A==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
