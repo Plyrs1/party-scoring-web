@@ -402,9 +402,9 @@
   integrity sha512-YaDrquRpZwfcXbnlDsSrBQNCChVOT9MGuSg+dMAyfsAa1SmiAhrA5jUYUiIMC59G92kIbY/AaQOWcBdq+lh+zg==
 
 "@sveltejs/kit@^2.0.0":
-  version "2.25.2"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.25.2.tgz#d566314e7596fc6aecb8e62b735b204ea21972f8"
-  integrity sha512-aKfj82vqEINedoH9Pw4Ip16jj3w8soNq9F3nJqc56kxXW74TcEu/gdTAuLUI+gsl8i+KXfetRqg1F+gG/AZRVQ==
+  version "2.26.0"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.26.0.tgz#4a701d0fe69a7f0f5d819c54a1f7f2c7a137f999"
+  integrity sha512-TUxMYoK6Yim4uRIW0L7TXtlEtyLchy90PmInI7d1lPAPMchkBEvN3nVMkn5iTMUobxdLE5nR/YEU/4aYqezMuQ==
   dependencies:
     "@sveltejs/acorn-typescript" "^1.0.5"
     "@types/cookie" "^0.6.0"
@@ -1241,7 +1241,7 @@ picomatch@^2.3.1:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-picomatch@^4.0.2:
+picomatch@^4.0.2, picomatch@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-4.0.3.tgz#796c76136d1eead715db1e7bad785dedd695a042"
   integrity sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==
@@ -1403,9 +1403,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.36.14"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.14.tgz#5c16f0d64fa99a177f0e5cf65414a047f8fe4f20"
-  integrity sha512-okgNwfVa4FfDGOgd0ndooKjQz1LknUFDGfEJp6QNjYP6B4hDG0KktOP+Pta3ZtE8s+JELsYP+7nqMrJzQLkf5A==
+  version "5.36.16"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.16.tgz#7f4aa449d6cefa6e2ee512d3d639f9bf9fae12d8"
+  integrity sha512-C7HnyISfvZEofs7T4p7+bmjrbQlhd6lZfgV2tLYg6Eb3nUFM/Zu9dGlSg+GWbUBU/WPw6zDPOFNZAx9qXsoCkg==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
@@ -1485,13 +1485,13 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 vite@^7.0.0:
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-7.0.5.tgz#deb2d3b777378f6d3e47c3d41b59f3c93f485738"
-  integrity sha512-1mncVwJxy2C9ThLwz0+2GKZyEXuC3MyWtAAlNftlZZXZDP3AJt5FmwcMit/IGGaNZ8ZOB2BNO/HFUB+CpN0NQw==
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-7.0.6.tgz#7866ccb176db4bbeec0adfb3f907f077881591d0"
+  integrity sha512-MHFiOENNBd+Bd9uvc8GEsIzdkn1JxMmEeYX35tI3fv0sJBUTfW5tQsoaOwuY4KhBI09A3dUJ/DXf2yxPVPUceg==
   dependencies:
     esbuild "^0.25.0"
     fdir "^6.4.6"
-    picomatch "^4.0.2"
+    picomatch "^4.0.3"
     postcss "^8.5.6"
     rollup "^4.40.0"
     tinyglobby "^0.2.14"
