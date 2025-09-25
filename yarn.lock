@@ -412,9 +412,9 @@
   integrity sha512-aytHXcMi7lb9ljsWUzXYQ0p5X1z9oWud2olu/EpmH7aCu4m84h7QLvb5Wp+CFirKcwoNnYvYWhyP/L8Vh1ztdw==
 
 "@sveltejs/kit@^2.0.0":
-  version "2.43.2"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.43.2.tgz#a634068bc0af466743a798088014c8e44f2b2f94"
-  integrity sha512-M27eBoqWmU7dEpotMGBaA1CK6Y/wK1b176mVOkrSJZwt17bk6Z1IjLQv0iuVYm7D8d1Z/I4HzJ3hSqy8auj1Sw==
+  version "2.43.5"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.43.5.tgz#4d515c256b4e2758aabfaf4720cd5358d56fb9eb"
+  integrity sha512-44Mm5csR4mesKx2Eyhtk8UVrLJ4c04BT2wMTfYGKJMOkUqpHP5KLL2DPV0hXUA4t4+T3ZYe0aBygd42lVYv2cA==
   dependencies:
     "@standard-schema/spec" "^1.0.0"
     "@sveltejs/acorn-typescript" "^1.0.5"
@@ -438,9 +438,9 @@
     debug "^4.4.1"
 
 "@sveltejs/vite-plugin-svelte@^6.0.0":
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-6.2.0.tgz#5a7516fbbda37cfbf81e398891b15f046dc8dafd"
-  integrity sha512-nJsV36+o7rZUDlrnSduMNl11+RoDE1cKqOI0yUEBCcqFoAZOk47TwD3dPKS2WmRutke9StXnzsPBslY7prDM9w==
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-6.2.1.tgz#3414c10aaacce8f23a8db2a37926da00ab7a78cb"
+  integrity sha512-YZs/OSKOQAQCnJvM/P+F1URotNnYNeU3P2s4oIpzm1uFaqUEqRxUB0g5ejMjEb5Gjb9/PiBI5Ktrq4rUUF8UVQ==
   dependencies:
     "@sveltejs/vite-plugin-svelte-inspector" "^5.0.0"
     debug "^4.4.1"
@@ -1421,9 +1421,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.39.5"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.5.tgz#f9bc67e89182ad141bfb9721e3adc205ba46f400"
-  integrity sha512-YrTmQAgJNB5He5t14g+BH76xTjskcx0Dg3p6qKqfPcgha+9Rzdgkoazdk18ahzNfkFYgykZIjfnBvlPcp3NpYg==
+  version "5.39.6"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.6.tgz#f63268d78044c0cad0b2e18e94e769c411e1b80c"
+  integrity sha512-bOJXmuwLNaoqPCTWO8mPu/fwxI5peGE5Efe7oo6Cakpz/G60vsnVF6mxbGODaxMUFUKEnjm6XOwHEqOht6cbvw==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
