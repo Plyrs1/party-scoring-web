@@ -414,9 +414,9 @@
   integrity sha512-7D9lYFWJmB7zxZyTE/qxjksvMqzMuYrrsyh1f4AlZqeZeACPRySjbC3aFiY55wb1tWUaKOQG9PVbm74JcN2Iew==
 
 "@sveltejs/kit@^2.0.0":
-  version "2.46.2"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.46.2.tgz#407c6925fa8f80652d5e5cb3dc7880a2c648655f"
-  integrity sha512-bGs473Gj4TwFf7dw6ZUwQI0ayaDb83E7G06QnYeNQC2DmAaktgFU2uB0tSfZVhpHqYH4o8GsLBkG3ZjThtmsIA==
+  version "2.46.4"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.46.4.tgz#9541f0687ed2492eac57dd15b21a7ceef7b7ac16"
+  integrity sha512-J1fd80WokLzIm6EAV7z7C2+/C02qVAX645LZomARARTRJkbbJSY1Jln3wtBZYibUB8c9/5Z6xqLAV39VdbtWCQ==
   dependencies:
     "@standard-schema/spec" "^1.0.0"
     "@sveltejs/acorn-typescript" "^1.0.5"
@@ -1412,9 +1412,9 @@ supports-color@^7.1.0:
     has-flag "^4.0.0"
 
 svelte-check@^4.0.0:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.3.2.tgz#cef142a3c76911cf56b975ab0c0dbf360061f49c"
-  integrity sha512-71udP5w2kaSTcX8iV0hn3o2FWlabQHhJTJLIQrCqMsrcOeDUO2VhCQKKCA8AMVHSPwdxLEWkUWh9OKxns5PD9w==
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.3.3.tgz#64338a3da6be3f07967ce3c27a2566c136cb5d37"
+  integrity sha512-RYP0bEwenDXzfv0P1sKAwjZSlaRyqBn0Fz1TVni58lqyEiqgwztTpmodJrGzP6ZT2aHl4MbTvWP6gbmQ3FOnBg==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.25"
     chokidar "^4.0.1"
@@ -1423,9 +1423,9 @@ svelte-check@^4.0.0:
     sade "^1.7.4"
 
 svelte@^5.0.0:
-  version "5.39.10"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.10.tgz#b2c229c601c2cf2485ac3e59cab000f5d691e85c"
-  integrity sha512-Q3gqCGIgl4r0CR7OaWYjVo22nqFmLLSfn1MiWNFaITamvqhGBD3kyqk51EKuO4Nd1z8QliO5KIz7a2Ka9Rxilw==
+  version "5.39.11"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.11.tgz#e04cc3de508ff1be13e808f67a253a1ec3164ab1"
+  integrity sha512-8MxWVm2+3YwrFbPaxOlT1bbMi6OTenrAgks6soZfiaS8Fptk4EVyRIFhJc3RpO264EeSNwgjWAdki0ufg4zkGw==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
